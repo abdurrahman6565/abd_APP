@@ -28,7 +28,7 @@ I also used this project to practice navigation between screens and basic UI des
 ## ▶️ How to run
 
 
-git clone https://github.com/YOUR_USERNAME/abd_app.git
+git clone https://github.com/abdurrahman6565/abd_app.git
 cd abd_app
 flutter pub get
 flutter run
